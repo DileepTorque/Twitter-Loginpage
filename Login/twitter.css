@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* border: 3px solid red; */
+   
+}
+body{
+    background-color:rgb(201, 209, 217);
+}
+.container{
+    width: 605px;
+    height: 650px;
+    margin-top: 10px;
+    background-color:black;
+    background-position: center;
+    border-radius: 20px;
+    margin-left: 29%;
+    margin-top: 80px;
+  
+}
+.x{
+    width: 52px;
+    margin-left: 272px;
+    padding-top: 5px;
+    
+}
+.button{
+    margin-left: 160px;
+    margin-top: 18px;
+    padding: 12px 75px 10px 75px;
+    font-size: medium;
+    border-radius: 30px;
+
+}
+.h1{
+    color: white;
+   font-style: inherit;
+    margin-left: 222px;
+    margin-top: 27px;
+}
+.G{
+    width: 15px;
+
+}
+.p{
+    color: white;
+     margin-left: 230px;
+     font-size: larger;
+}
+.next{
+    margin-left: 160px;
+    margin-top: 24px;
+    padding: 12px 150px 10px 154px;
+    font-size: medium;
+    border-radius: 30px;
+}
+.sign{
+    color: white;
+    margin-left: 160px;
+    
+    font-size: medium;
+} 
+.pass{
+    border: 0.5px solid;
+  border-color: white;
+  background-color: transparent;
+  color: white;
+  padding: 10px 100px 8px 99px;
+  margin-bottom: 250px;
+}
+.input{
+    margin-left: 166px;
+    margin-top: 18px;
+    padding: 20px 75px 20px 75px;
+    font-size: medium;
+    border-radius: 5px;
+    border: 0.2px solid;
+  border-color: white;
+  background-color: transparent;
+  color: white;
+  
+}
+.hello{
+  
+}
